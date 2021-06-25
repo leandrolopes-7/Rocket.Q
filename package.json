@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/leandrolopes-7/Roquet.Q/issues"
   },
-  "homepage": "https://github.com/leandrolopes-7/Roquet.Q#readme"
+  "homepage": "https://github.com/leandrolopes-7/Roquet.Q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
