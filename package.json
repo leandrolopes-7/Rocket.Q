@@ -1,0 +1,20 @@
+{
+  "name": "ROCKETQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios direcionadas ao dono da pagina. Projeto desenvolvido na semana NLW Rocketseat na missão discover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrolopes-7/Roquet.Q.git"
+  },
+  "keywords": [],
+  "author": "Leandro Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrolopes-7/Roquet.Q/issues"
+  },
+  "homepage": "https://github.com/leandrolopes-7/Roquet.Q#readme"
+}
